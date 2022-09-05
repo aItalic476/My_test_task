@@ -1,0 +1,9 @@
+.surname{
+    margin-bottom: 15px;
+}
+.dateinfo{
+   display:block;
+}
+.dateinfo.disabled{
+    display: none;
+}
